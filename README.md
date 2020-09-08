@@ -23,4 +23,15 @@
 ***Clase#5***
     ***Gestión del árbol de directorios***
         ***Comandos***
-            
+            Basicos (cd .., ls... etc)
+***Clase#6***
+    ***Diferencias entre LESS, CAT, HEAD y TAIL para lectura de archivos***
+        ***Cat**
+            Para archivos pequños.
+        ***less**
+        ***tail***
+            tail -n 20 (últimas lineas del archivo)
+            tail -f /var/log/auth.log /var/log/dpkg.log (se pueden concatenar varios logs al tiempo)
+        ***head**
+            head -n 12  (Primeras doce lineas)
+        
