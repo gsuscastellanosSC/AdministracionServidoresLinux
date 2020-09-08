@@ -17,4 +17,6 @@
         Descarga e instalación de Virtual Box
         Descarga de ubuntu server
         Instalación de Ubuntu Sever con Virtual Box
-        
+***Clase#4***
+    ***Instrucciones para instalar CentOS***
+        Descarga e instalación de CentOS
