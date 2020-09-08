@@ -20,3 +20,7 @@
 ***Clase#4***
     ***Instrucciones para instalar CentOS***
         Descarga e instalación de CentOS
+***Clase#5***
+    ***Gestión del árbol de directorios***
+        ***Comandos***
+            
