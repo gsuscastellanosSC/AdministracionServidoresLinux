@@ -34,4 +34,13 @@
             tail -f /var/log/auth.log /var/log/dpkg.log (se pueden concatenar varios logs al tiempo)
         ***head**
             head -n 12  (Primeras doce lineas)
-        
+***Clase#7***
+    ***Interacción con archivos y permisos***
+        ***chmod***
+            chmod ugoa +rwx
+                u => Usuario
+                g => Grupo
+                o => Otros
+                a => all
+            chmod u+x archivo.*
+            chmod ugo +wrx
