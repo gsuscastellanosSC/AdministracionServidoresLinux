@@ -63,6 +63,18 @@
         -> fg %2
         -> kill %2
         -> nohup ./script.sh = detalle de ejecución de .sh
+# Clase#10
+    Monitoreo de recursos del sistema
+        top => Estado general de la memoria
+        cat /proc/cpuinfo | grep -i "Processor"
+        free:
+            free -h
+        du:
+            du -hsc /home/
+        ps:
+            sudo ps auxf | sort -nr -k 3 | head -5
+            sudo ps auxf | sort -nr -k 4 | head -5
+        htop
 # Links:
     Canonical:
         https://ubuntu.com/advantage
