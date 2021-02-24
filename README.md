@@ -47,6 +47,12 @@
             chmod ugo +wrx
         chown:
             sudo chown user: file or dir
+# Clase#8
+    Conociendo las terminales en linux
+        -> tty
+        -> who
+        -> ps
+        -> kill -p #Process
 # Links:
     Canonical:
         https://ubuntu.com/advantage
