@@ -53,6 +53,16 @@
         -> who
         -> ps
         -> kill -p #Process
+# Clase#9
+    Manejo y monitoreo de procesos y recursos del sistema
+        -> ps
+        -> ps aux | grep sc
+        -> Ctrl + Z =Process to background
+        -> jobs Process in exec
+        -> fg = Process of the background
+        -> fg %2
+        -> kill %2
+        -> nohup ./script.sh = detalle de ejecución de .sh
 # Links:
     Canonical:
         https://ubuntu.com/advantage
