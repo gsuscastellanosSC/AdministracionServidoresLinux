@@ -1,5 +1,5 @@
 # CursoDeAdministracionDeServidoresLinux
-# Clase #1
+# Clase#1
     Intrudicción
 # Clase#2
     Distribuciones más utilizadas de Linux
